@@ -180,7 +180,7 @@ while label:
 
     
     cv2.imshow('Image', temp_image)
-    cv2.imshow('overlay', annotation_overlay)
+    # cv2.imshow('overlay', annotation_overlay)
     
     key = cv2.waitKeyEx(0)
     print(key)
