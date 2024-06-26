@@ -1,5 +1,5 @@
 # Retinal Vessel Annotation Tool
-This is a annotation tool designed to calculate retinal vessel bifurcation angles
+This is an annotation tool designed to calculate retinal vessel bifurcation angles
 <img src='https://github.com/Retinal-Research/RBAD/blob/main/plot/annotation_example_1.jpg?raw=true' width='50%'></img>
 # Controls
 click <b>left mouse</b> will to mark bifurcation:<br>
