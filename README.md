@@ -15,4 +15,4 @@ This is an annotation tool designed to calculate retinal vessel bifurcation angl
 # Retinal Vessel Angel Detection
 The main function of retinal angle detection
 
-<img src='../../plot/angle.gif' width='50%'></img>
+<img src='./plot/angle.gif' width='50%'></img>
