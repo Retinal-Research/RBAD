@@ -1,6 +1,6 @@
-# RBAD
+# RBAD - A Dataset and Benchmark for Retinal Vessels Branching Angle Detection
 
-The tool for retinal angle detection.
+We offer an open-source annotation tool and a benchmark dataset comprising 40 images annotated with retinal branching angles. Additionally, this project presents a novel method for detecting retinal branching angles using a self-configured image processing technique. Our methodology for retinal branching angle detection and calculation is detailed, followed by a benchmark analysis comparing our method with previous approaches. 
 
 
 # Project Overview
