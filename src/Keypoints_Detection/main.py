@@ -19,6 +19,9 @@ import copy
 
 from PIL import Image
 
+from collections import deque
+import imageio
+
 
 def img_uint8(image):
     image = (image - np.min(image)) / (np.max(image) - np.min(image)) * 255
@@ -188,9 +191,6 @@ def fast_keypoints(image, roots, tail=15, save_gif=False):
     return image_draw, mask, gray, angle_map, keypoints
 
 
-
-from collections import deque
-import imageio
 
 
 path = './DRIVE/training/1st_manual/'
